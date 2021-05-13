@@ -24,7 +24,6 @@ function Todo(props) {
 			{modalIsOpen && <Backdrop onCancel={closeModalHandler} />}
 		</div>
 
-		
 	)
 }
 
